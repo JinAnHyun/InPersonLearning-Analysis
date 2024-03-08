@@ -25,20 +25,20 @@ Course Format: All respondents were currently taking the course online, providin
 # Hypothesis 1 Results
 a) Thoughts on Returning to In-Person Learning
 Distribution: 56.5% of students were not looking forward to in-person learning.
-Financial Burdens: 82.61% expected travel fees, 63% anticipated food fees.
-b) Relationship Analysis
+Financial Burdens: 82.61% expected travel fees, 63% anticipated food fees.<br />
+b)Relationship Analysis
 Financial Burdens vs. Eagerness to Return:
-No significant relationship found, indicating a weak correlation.
-c) Insights
+No significant relationship found, indicating a weak correlation.<br />
+c)Insights
 Despite financial burdens, some students were eager to return, emphasizing the importance of social interaction.
 A more detailed financial analysis could provide additional insights.
 # Hypothesis 2 Results
 a) Comfort Level and Mental Health
 Distribution: 32.6% of students felt uncomfortable about returning.
-Mental Health Impact: Students reported both negative and neutral effects with equal frequency.
+Mental Health Impact: Students reported both negative and neutral effects with equal frequency.<br />
 b) Relationship Analysis
 Comfort Level vs. Mental Health Impact:
-60% of uncomfortable students reported a negative mental health impact.
+60% of uncomfortable students reported a negative mental health impact.<br />
 A moderate positive relationship was observed.
 c) Insights
 Social interaction may be a key factor for students comfortable with returning.

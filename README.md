@@ -38,8 +38,8 @@ Distribution: 32.6% of students felt uncomfortable about returning.
 Mental Health Impact: Students reported both negative and neutral effects with equal frequency.<br />
 b) Relationship Analysis
 Comfort Level vs. Mental Health Impact:
-60% of uncomfortable students reported a negative mental health impact.<br />
-A moderate positive relationship was observed.
+60% of uncomfortable students reported a negative mental health impact.
+A moderate positive relationship was observed.<br />
 c) Insights
 Social interaction may be a key factor for students comfortable with returning.
 Majority of students felt uncomfortable, anticipating negative mental health effects.
